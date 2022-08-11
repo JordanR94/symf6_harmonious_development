@@ -1,4 +1,7 @@
-.idea*
+#Things for PHPStorm, to keep the repo neat.
+.idea
+.idea/*
+/.idea
 
 
 ###> symfony/framework-bundle ###
